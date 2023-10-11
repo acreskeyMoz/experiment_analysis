@@ -1,4 +1,4 @@
-# Plotly.js Example: Pageload & Histogram Graphs
+## Plotly.js Example: Pageload & Histogram Graphs
 
 ## Overview
 
